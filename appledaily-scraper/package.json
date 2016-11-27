@@ -1,0 +1,21 @@
+{
+  "name": "appledaily-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.2",
+    "cheerio": "^0.22.0",
+    "fast-csv": "^2.3.0",
+    "mimir": "0.0.1",
+    "moment": "^2.16.0",
+    "natural": "^0.4.0",
+    "request": "^2.78.0"
+  }
+}
